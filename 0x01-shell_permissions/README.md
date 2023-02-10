@@ -1,1 +1,2 @@
 Shell permissions
+Executable permissions
